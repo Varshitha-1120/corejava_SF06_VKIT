@@ -3,7 +3,9 @@ package com.tnsif.accessmodifierdemo;
 public class Accessdemo {
           
 	    //public
-	
+	    //private
+	   //protected
+	   //default
 	public int a=9;
 	public String s="guru";
 	
