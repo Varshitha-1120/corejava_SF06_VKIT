@@ -3,7 +3,7 @@ package com.tnsif.accessmodifierdemo;
 public class Accessdemo {
           
 	    //public
-	    //private
+	   //private
 	   //protected
 	   //default
 	public int a=9;
@@ -21,3 +21,4 @@ public class Accessdemo {
 		obj.display();
 	}
 }
+ 
