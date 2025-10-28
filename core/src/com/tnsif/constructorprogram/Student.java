@@ -9,5 +9,5 @@ public class Student {
 		this.rollno = rollno;
 		this.name = name;
 	}
-	    
+     
 }
