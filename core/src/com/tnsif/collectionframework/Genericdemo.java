@@ -1,14 +1,15 @@
-package com.tnsif.multithreading;
+package com.tnsif.collectionframework;
 
 import java.util.ArrayList;
 import java.util.Iterator;
 
-//demo for generic concepts
+// demo for generic concepts
+
 public class Genericdemo {
 	public static void main(String[] args) {
 		ArrayList<String> lis=new ArrayList<String>();
 		//lis.add(4);
-		lis.add("rashmi");
+		lis.add("varshitha");
 		lis.add("kusuma");
 		lis.add("sushma");
 		lis.add("apple");
@@ -25,4 +26,5 @@ public class Genericdemo {
 		}
 		
 	}
+
 }
