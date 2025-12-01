@@ -10,6 +10,6 @@ public class PNB implements Bank {
 	public static void main(String[] args) {
 		//PNB p=new PNB();
 		Bank b=new PNB();
-		System.out.println(b.rateofinterest());
+		System.out.println(b.rateofintrest());
 	}
 }
